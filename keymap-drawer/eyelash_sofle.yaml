@@ -51,7 +51,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:printer-outline$$
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-caps$$
   - $$mdi:apple-keyboard-option$$
